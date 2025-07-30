@@ -86,7 +86,10 @@ plt.show()
 ## 👩‍💻 Author
 
 Mahya Karamad Kasmaei  
-M.Eng. Student – McMaster University  
+Marin Vratonjic
+Aryan Sunilkumar Singh 
+
+M.Eng. Students – McMaster University  
 Deep Learning & Computer Vision Enthusiast  
 
 ## 📜 License
